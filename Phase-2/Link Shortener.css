@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightpink;
+}
+
+h1 {
+    color: #333;
+}
+
+input {
+    width: 80%;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+#copyButton {
+    background-color: #0056b3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#copyButton:hover {
+    background-color: #003c78;
+}
